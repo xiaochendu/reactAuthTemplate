@@ -10,7 +10,7 @@
   "author": "Xiaochen Du <duxiaochen1996@outlook.com> (http://dxc2007.github.io/)",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^0.8.7",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "jsonwebtoken": "^7.1.9",
